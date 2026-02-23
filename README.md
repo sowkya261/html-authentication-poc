@@ -9,5 +9,4 @@ reset-password.html
 dashboard.html
 
 
-
 Only HTML is used.
