@@ -1,12 +1,13 @@
 HTML Authentication System
 
-This project has 5 pages:
+
+This project has 5 pages includes:
 login.html
 register.html
 forgot-password.html
 reset-password.html
 dashboard.html
 
-Navigation is done using anchor tags.
+
 
 Only HTML is used.
